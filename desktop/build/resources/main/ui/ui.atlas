@@ -1,0 +1,62 @@
+
+ui.png
+size: 1024, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+blue_button02
+  rotate: false
+  xy: 2, 2
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+blue_button03
+  rotate: false
+  xy: 386, 6
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+blue_button09
+  rotate: false
+  xy: 821, 2
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+blue_button10
+  rotate: false
+  xy: 872, 6
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+green_button02
+  rotate: false
+  xy: 194, 2
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+green_button03
+  rotate: false
+  xy: 578, 6
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+green_button09
+  rotate: false
+  xy: 770, 2
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+green_button10
+  rotate: false
+  xy: 923, 6
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1

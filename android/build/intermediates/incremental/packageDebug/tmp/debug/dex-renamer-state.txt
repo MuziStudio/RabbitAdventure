@@ -1,0 +1,4 @@
+#Sat Jun 11 19:26:22 CST 2022
+base.0=D\:\\libgdx\\RabbitAdventure\\android\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

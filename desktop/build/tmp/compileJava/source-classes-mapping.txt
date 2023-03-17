@@ -1,0 +1,2 @@
+com/muzi/rabbitadventure/desktop/DesktopLauncher.java
+ com.muzi.rabbitadventure.desktop.DesktopLauncher

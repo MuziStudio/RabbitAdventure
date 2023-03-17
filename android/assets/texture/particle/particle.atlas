@@ -1,0 +1,104 @@
+
+particle.png
+size: 512, 128
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+flame
+  rotate: false
+  xy: 116, 45
+  size: 41, 80
+  orig: 41, 80
+  offset: 0, 0
+  index: -1
+lighting_blue
+  rotate: false
+  xy: 59, 11
+  size: 55, 114
+  orig: 55, 114
+  offset: 0, 0
+  index: -1
+lighting_yellow
+  rotate: false
+  xy: 2, 11
+  size: 55, 114
+  orig: 55, 114
+  offset: 0, 0
+  index: -1
+particle_beige
+  rotate: false
+  xy: 267, 84
+  size: 58, 41
+  orig: 58, 41
+  offset: 0, 0
+  index: -1
+particle_blue
+  rotate: false
+  xy: 159, 76
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+particle_brown
+  rotate: false
+  xy: 267, 34
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+particle_darkBrown
+  rotate: false
+  xy: 327, 82
+  size: 54, 43
+  orig: 54, 43
+  offset: 0, 0
+  index: -1
+particle_darkGrey
+  rotate: false
+  xy: 383, 82
+  size: 51, 43
+  orig: 51, 43
+  offset: 0, 0
+  index: -1
+particle_green
+  rotate: false
+  xy: 159, 28
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+particle_grey
+  rotate: false
+  xy: 116, 2
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+particle_pink
+  rotate: false
+  xy: 212, 79
+  size: 53, 46
+  orig: 53, 46
+  offset: 0, 0
+  index: -1
+portal_orangeParticle
+  rotate: false
+  xy: 489, 83
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+portal_yellowParticle
+  rotate: false
+  xy: 489, 105
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: false
+  xy: 436, 77
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,5 @@
+com.muzi.rabbitadventure:style/GdxTheme = 0x7f040000
+com.muzi.rabbitadventure:string/app_name = 0x7f030000
+com.muzi.rabbitadventure:drawable/ic_launcher_foreground = 0x7f020001
+com.muzi.rabbitadventure:drawable/ic_launcher = 0x7f020000
+com.muzi.rabbitadventure:color/ic_background_color = 0x7f010000

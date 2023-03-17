@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RabbitAdventure.iml" filepath="$PROJECT_DIR$/.idea/modules/RabbitAdventure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/RabbitAdventure.android.iml" filepath="$PROJECT_DIR$/.idea/modules/android/RabbitAdventure.android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/RabbitAdventure.android.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/android/RabbitAdventure.android.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/RabbitAdventure.android.main.iml" filepath="$PROJECT_DIR$/.idea/modules/android/RabbitAdventure.android.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/RabbitAdventure.android.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/android/RabbitAdventure.android.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/RabbitAdventure.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/RabbitAdventure.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/RabbitAdventure.core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/RabbitAdventure.core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/RabbitAdventure.core.test.iml" filepath="$PROJECT_DIR$/.idea/modules/core/RabbitAdventure.core.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/RabbitAdventure.desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/RabbitAdventure.desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/RabbitAdventure.desktop.main.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/RabbitAdventure.desktop.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/RabbitAdventure.desktop.test.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/RabbitAdventure.desktop.test.iml" />
+    </modules>
+  </component>
+</project>

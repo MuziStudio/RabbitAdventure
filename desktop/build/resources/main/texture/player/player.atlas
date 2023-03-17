@@ -1,0 +1,90 @@
+
+player.png
+size: 2048, 256
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+bunny1_hurt
+  rotate: false
+  xy: 458, 35
+  size: 150, 174
+  orig: 150, 174
+  offset: 0, 0
+  index: -1
+bunny1_jump
+  rotate: false
+  xy: 2, 28
+  size: 150, 181
+  orig: 150, 181
+  offset: 0, 0
+  index: -1
+bunny1_ready
+  rotate: false
+  xy: 1468, 18
+  size: 120, 191
+  orig: 120, 191
+  offset: 0, 0
+  index: -1
+bunny1_stand
+  rotate: false
+  xy: 1101, 8
+  size: 120, 201
+  orig: 120, 201
+  offset: 0, 0
+  index: -1
+bunny1_walk1
+  rotate: false
+  xy: 1223, 8
+  size: 120, 201
+  orig: 120, 201
+  offset: 0, 0
+  index: -1
+bunny1_walk2
+  rotate: false
+  xy: 856, 2
+  size: 120, 207
+  orig: 120, 207
+  offset: 0, 0
+  index: -1
+bunny2_hurt
+  rotate: false
+  xy: 306, 35
+  size: 150, 174
+  orig: 150, 174
+  offset: 0, 0
+  index: -1
+bunny2_jump
+  rotate: false
+  xy: 154, 28
+  size: 150, 181
+  orig: 150, 181
+  offset: 0, 0
+  index: -1
+bunny2_ready
+  rotate: false
+  xy: 1345, 18
+  size: 121, 191
+  orig: 121, 191
+  offset: 0, 0
+  index: -1
+bunny2_stand
+  rotate: false
+  xy: 610, 8
+  size: 121, 201
+  orig: 121, 201
+  offset: 0, 0
+  index: -1
+bunny2_walk1
+  rotate: false
+  xy: 978, 8
+  size: 121, 201
+  orig: 121, 201
+  offset: 0, 0
+  index: -1
+bunny2_walk2
+  rotate: false
+  xy: 733, 2
+  size: 121, 207
+  orig: 121, 207
+  offset: 0, 0
+  index: -1
